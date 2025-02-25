@@ -34,6 +34,10 @@
       }
     ],
     "entertainment": [
-      
+      {
+        "name": "Ristey Cimplex",
+        "url": "https://jcevents.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/hdntl=exp=1740470379~acl=%2F*~id=0aa6691b27e8b9b85d48501b96cd32ec~data=hdntl~hmac=213efdbad0e0b8fd17a39e6e4c2c9316c6a225fb4472f7bc7baca7c0b2816237/JC_ColorsCineplexHD-audio_33636_hin=33600-video=148000.m3u8",
+        "thumbnail": "https://i.ibb.co/wNfDJbtg/Uploaded-6910445402.jpg"
+      }
     ]
   }
