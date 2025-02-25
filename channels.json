@@ -16,19 +16,29 @@
       "thumbnail": "https://i.ibb.co/6RmtG8zB/Uploaded-6910445402.jpg"
     },
     {
-      "name": "Aaj Tak",
-      "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8",
-      "thumbnail": "https://i.ibb.co/mrpCp4gr/Uploaded-6910445402.jpg"
+      "name": "Sky Sports",
+      "url": "https://cdnt20.t20hd.cfd/live/m3-720p.m3u8",
+      "thumbnail": "https://i.ibb.co/VpxhFKrP/Uploaded-6910445402.jpg"
     },
     {
-      "name": "Cineplex",
+      "name": "Willow Sports",
       "url": "#",
-      "thumbnail": "https://i.ibb.co/0yHZns91/Uploaded-6910445402.jpg"
+      "thumbnail": "https://i.ibb.co/yFBYspDH/Uploaded-6910445402.jpg"
     },
     {
-      "name": "Movies Hub",
+      "name": "Jio Cinema",
+      "url": "https://cdnt20.t20hd.cfd/live/m3-720p.m3u8",
+      "thumbnail": "https://i.ibb.co/5p4Rsh3/Uploaded-6910445402.jpg"
+    },
+    {
+      "name": "Hotstar",
       "url": "#",
-      "thumbnail": "https://i.ibb.co/HfzhH1zf/Uploaded-6910445402.jpg"
+      "thumbnail": "https://i.ibb.co/nMh16HqZ/Uploaded-6910445402.jpg"
+    },
+    {
+      "name": "Colour Cineplex",
+      "url": "#",
+      "thumbnail": "https://i.ibb.co/HfYJTVn8/Uploaded-6910445402.jpg"
     },
     {
       "name": "Aaj Tak",
@@ -36,13 +46,30 @@
       "thumbnail": "https://i.ibb.co/mrpCp4gr/Uploaded-6910445402.jpg"
     }
   ],
-  "sports": [
+  "hindisports": [
     {
       "name": "Sports 18",
       "url": "https://cdnt20.t20hd.cfd/live/m3-720p.m3u8",
       "thumbnail": "https://i.ibb.co/ds1CnGcW/Uploaded-6910445402.jpg"
     },
     {
+      "name": "Jio Cinema",
+      "url": "https://cdnt20.t20hd.cfd/live/m3-720p.m3u8",
+      "thumbnail": "https://i.ibb.co/5p4Rsh3/Uploaded-6910445402.jpg"
+    },
+    {
+      "name": "Hotstar",
+      "url": "#",
+      "thumbnail": "https://i.ibb.co/nMh16HqZ/Uploaded-6910445402.jpg"
+    },
+    {
+      "name": "Aaj Tak",
+      "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8",
+      "thumbnail": "https://i.ibb.co/mrpCp4gr/Uploaded-6910445402.jpg"
+    }
+  ],
+  "englishsports": [
+     {
       "name": "T Sports",
       "url": "https://cdnt20.t20hd.cfd/live/m3-720p.m3u8",
       "thumbnail": "https://yt3.googleusercontent.com/eY6Yt0YDmWSheMmneYNjUD_2N5p8r2nFca9CENifrZ9TugWxrQW24oznjqBJPOFmSs2M6avemg=s900-c-k-c0x00ffffff-no-rj"
@@ -51,23 +78,16 @@
       "name": "Willow TV",
       "url": "https://cdnt20.t20hd.cfd/live/m3-720p.m3u8",
       "thumbnail": "https://i.ibb.co/6RmtG8zB/Uploaded-6910445402.jpg"
-    }
-  ],
-  "entertainment": [
-    {
-      "name": "Cineplex",
-      "url": "#",
-      "thumbnail": "https://i.ibb.co/0yHZns91/Uploaded-6910445402.jpg"
     },
     {
-      "name": "Movies Hub",
-      "url": "#",
-      "thumbnail": "https://i.ibb.co/HfzhH1zf/Uploaded-6910445402.jpg"
+      "name": "Sky Sports",
+      "url": "https://cdnt20.t20hd.cfd/live/m3-720p.m3u8",
+      "thumbnail": "https://i.ibb.co/VpxhFKrP/Uploaded-6910445402.jpg"
     },
     {
-      "name": "Aaj Tak",
-      "url": "https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8",
-      "thumbnail": "https://i.ibb.co/mrpCp4gr/Uploaded-6910445402.jpg"
+      "name": "India Today",
+      "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8",
+      "thumbnail": "https://i.ibb.co/LXxH8c6n/Uploaded-6910445402.jpg"
     }
   ]
 }
